@@ -40,7 +40,7 @@
     "url": "boot.bpn.su",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "boot-bpn-su",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 750,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2022-05-09": 0,
       "2022-02-25": 92,
       "2022-02-16": 20
     }
