@@ -1,7 +1,7 @@
 url: hp.boringplace.org
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2022-11-08T11:41:53.477Z
+lastUpdated: 2022-11-08T14:38:33.153Z
 startTime: Wed Feb 16 2022 20:31:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
