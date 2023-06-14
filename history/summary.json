@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "81.62%",
+    "uptime": "81.64%",
     "uptimeDay": "99.39%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "76.76%",
+    "uptimeYear": "76.93%",
     "time": 185,
     "timeDay": 195,
-    "timeWeek": 186,
+    "timeWeek": 183,
     "timeMonth": 192,
     "timeYear": 189,
     "dailyMinutesDown": {
@@ -134,8 +134,7 @@
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
-      "2022-06-15": 1440,
-      "2022-06-14": 1440
+      "2022-06-15": 1440
     }
   },
   {
@@ -144,15 +143,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "79.99%",
+    "uptime": "80.01%",
     "uptimeDay": "99.47%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "74.60%",
+    "uptimeYear": "74.77%",
     "time": 182,
-    "timeDay": 189,
+    "timeDay": 203,
     "timeWeek": 183,
-    "timeMonth": 189,
+    "timeMonth": 190,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2023-06-13": 8,
@@ -273,8 +272,7 @@
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
-      "2022-06-15": 1440,
-      "2022-06-14": 1440
+      "2022-06-15": 1440
     }
   },
   {
@@ -283,15 +281,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "78.80%",
+    "uptime": "78.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "73.60%",
+    "uptimeYear": "73.77%",
     "time": 866,
-    "timeDay": 800,
-    "timeWeek": 946,
-    "timeMonth": 1040,
+    "timeDay": 994,
+    "timeWeek": 945,
+    "timeMonth": 1046,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2023-05-23": 7,
@@ -416,8 +414,7 @@
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
-      "2022-06-15": 1440,
-      "2022-06-14": 1440
+      "2022-06-15": 1440
     }
   }
 ]
