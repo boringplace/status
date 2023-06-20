@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "81.83%",
+    "uptime": "81.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "78.30%",
+    "uptimeYear": "78.57%",
     "time": 185,
-    "timeDay": 166,
-    "timeWeek": 186,
-    "timeMonth": 188,
+    "timeDay": 197,
+    "timeWeek": 189,
+    "timeMonth": 187,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2023-06-13": 9,
@@ -128,8 +128,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
-      "2022-06-21": 1440,
-      "2022-06-20": 1440
+      "2022-06-21": 1440
     }
   },
   {
@@ -138,15 +137,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "80.22%",
+    "uptime": "80.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "76.14%",
+    "uptimeYear": "76.41%",
     "time": 182,
-    "timeDay": 134,
-    "timeWeek": 177,
-    "timeMonth": 184,
+    "timeDay": 174,
+    "timeWeek": 179,
+    "timeMonth": 183,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2023-06-13": 8,
@@ -261,8 +260,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
-      "2022-06-21": 1440,
-      "2022-06-20": 1440
+      "2022-06-21": 1440
     }
   },
   {
@@ -271,15 +269,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "79.04%",
+    "uptime": "79.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "75.14%",
+    "uptimeYear": "75.41%",
     "time": 866,
-    "timeDay": 739,
-    "timeWeek": 858,
-    "timeMonth": 1032,
+    "timeDay": 993,
+    "timeWeek": 886,
+    "timeMonth": 1029,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2023-05-23": 7,
@@ -398,8 +396,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
-      "2022-06-21": 1440,
-      "2022-06-20": 1440
+      "2022-06-21": 1440
     }
   }
 ]
