@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "82.09%",
+    "uptime": "82.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "80.22%",
+    "uptimeYear": "80.49%",
     "time": 185,
-    "timeDay": 225,
-    "timeWeek": 199,
+    "timeDay": 175,
+    "timeWeek": 196,
     "timeMonth": 188,
     "timeYear": 189,
     "dailyMinutesDown": {
@@ -121,8 +121,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   },
   {
@@ -131,13 +130,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "80.50%",
+    "uptime": "80.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "78.06%",
+    "uptimeYear": "78.34%",
     "time": 182,
-    "timeDay": 232,
+    "timeDay": 177,
     "timeWeek": 195,
     "timeMonth": 184,
     "timeYear": 186,
@@ -247,8 +246,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   },
   {
@@ -257,15 +255,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "79.34%",
+    "uptime": "79.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.06%",
+    "uptimeYear": "77.33%",
     "time": 867,
-    "timeDay": 1146,
-    "timeWeek": 934,
-    "timeMonth": 912,
+    "timeDay": 901,
+    "timeWeek": 920,
+    "timeMonth": 914,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2023-05-23": 7,
@@ -377,8 +375,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   }
 ]
