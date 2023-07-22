@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "82.95%",
+    "uptime": "82.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.06%",
+    "uptimeYear": "87.34%",
     "time": 186,
-    "timeDay": 380,
-    "timeWeek": 208,
+    "timeDay": 195,
+    "timeWeek": 209,
     "timeMonth": 199,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -96,8 +96,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   },
   {
@@ -106,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "81.44%",
+    "uptime": "81.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.91%",
+    "uptimeYear": "85.18%",
     "time": 183,
-    "timeDay": 175,
-    "timeWeek": 182,
-    "timeMonth": 193,
+    "timeDay": 173,
+    "timeWeek": 181,
+    "timeMonth": 191,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2023-06-13": 8,
@@ -197,8 +196,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   },
   {
@@ -207,15 +205,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "80.34%",
+    "uptime": "80.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.90%",
+    "uptimeYear": "84.18%",
     "time": 870,
-    "timeDay": 761,
-    "timeWeek": 883,
-    "timeMonth": 929,
+    "timeDay": 977,
+    "timeWeek": 893,
+    "timeMonth": 931,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2023-05-23": 7,
@@ -302,8 +300,7 @@
       "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
-      "2022-07-23": 1440,
-      "2022-07-22": 1440
+      "2022-07-23": 1440
     }
   }
 ]
