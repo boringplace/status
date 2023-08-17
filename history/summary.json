@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "82.52%",
+    "uptime": "82.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.80%",
-    "uptimeYear": "92.33%",
+    "uptimeYear": "92.60%",
     "time": 187,
-    "timeDay": 196,
-    "timeWeek": 186,
-    "timeMonth": 198,
+    "timeDay": 175,
+    "timeWeek": 187,
+    "timeMonth": 197,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2023-08-08": 567,
@@ -81,8 +81,7 @@
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
-      "2022-08-18": 1440,
-      "2022-08-17": 1440
+      "2022-08-18": 1440
     }
   },
   {
@@ -91,14 +90,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "81.09%",
+    "uptime": "81.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.85%",
-    "uptimeYear": "90.18%",
-    "time": 186,
-    "timeDay": 221,
-    "timeWeek": 185,
+    "uptimeYear": "90.46%",
+    "time": 185,
+    "timeDay": 181,
+    "timeWeek": 189,
     "timeMonth": 231,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -166,8 +165,7 @@
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
-      "2022-08-18": 1440,
-      "2022-08-17": 1440
+      "2022-08-18": 1440
     }
   },
   {
@@ -176,15 +174,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "80.02%",
+    "uptime": "80.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "77.59%",
-    "uptimeYear": "89.15%",
-    "time": 878,
-    "timeDay": 972,
-    "timeWeek": 950,
-    "timeMonth": 916,
+    "uptimeYear": "89.43%",
+    "time": 879,
+    "timeDay": 895,
+    "timeWeek": 958,
+    "timeMonth": 912,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2023-08-09": 78,
@@ -256,8 +254,7 @@
       "2022-08-21": 1440,
       "2022-08-20": 1440,
       "2022-08-19": 1440,
-      "2022-08-18": 1440,
-      "2022-08-17": 1440
+      "2022-08-18": 1440
     }
   }
 ]
