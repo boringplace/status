@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "82.62%",
+    "uptime": "82.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.80%",
-    "uptimeYear": "93.15%",
+    "uptimeYear": "93.43%",
     "time": 187,
-    "timeDay": 171,
-    "timeWeek": 178,
-    "timeMonth": 199,
+    "timeDay": 196,
+    "timeWeek": 181,
+    "timeMonth": 198,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2023-08-08": 567,
@@ -78,8 +78,7 @@
       "2022-09-21": 32,
       "2022-09-05": 9,
       "2022-08-22": 463,
-      "2022-08-21": 1440,
-      "2022-08-20": 1440
+      "2022-08-21": 1440
     }
   },
   {
@@ -88,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "81.19%",
+    "uptime": "81.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.85%",
-    "uptimeYear": "91.00%",
+    "uptimeYear": "91.28%",
     "time": 186,
-    "timeDay": 169,
+    "timeDay": 175,
     "timeWeek": 183,
-    "timeMonth": 232,
+    "timeMonth": 230,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2023-08-08": 566,
@@ -160,8 +159,7 @@
       "2022-08-24": 1440,
       "2022-08-23": 1440,
       "2022-08-22": 1440,
-      "2022-08-21": 1440,
-      "2022-08-20": 1440
+      "2022-08-21": 1440
     }
   },
   {
@@ -170,15 +168,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "80.13%",
+    "uptime": "80.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.59%",
-    "uptimeYear": "89.97%",
+    "uptimeYear": "90.25%",
     "time": 879,
-    "timeDay": 834,
-    "timeWeek": 927,
-    "timeMonth": 920,
+    "timeDay": 921,
+    "timeWeek": 930,
+    "timeMonth": 919,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2023-08-09": 78,
@@ -247,8 +245,7 @@
       "2022-09-21": 30,
       "2022-09-05": 7,
       "2022-08-22": 1292,
-      "2022-08-21": 1440,
-      "2022-08-20": 1440
+      "2022-08-21": 1440
     }
   }
 ]
