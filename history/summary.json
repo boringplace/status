@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "83.57%",
+    "uptime": "83.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "94.04%",
     "time": 189,
-    "timeDay": 196,
-    "timeWeek": 202,
-    "timeMonth": 197,
-    "timeYear": 191,
+    "timeDay": 171,
+    "timeWeek": 197,
+    "timeMonth": 196,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2023-09-16": 81,
       "2023-08-08": 567,
@@ -75,8 +75,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 300,
-      "2022-10-05": 392,
-      "2022-09-21": 32
+      "2022-10-05": 392
     }
   },
   {
@@ -85,14 +84,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "82.22%",
+    "uptime": "82.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "95.84%",
     "time": 188,
-    "timeDay": 170,
-    "timeWeek": 195,
+    "timeDay": 169,
+    "timeWeek": 190,
     "timeMonth": 189,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -141,8 +140,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 299,
-      "2022-10-05": 480,
-      "2022-09-21": 31
+      "2022-10-05": 480
     }
   },
   {
@@ -151,15 +149,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "81.22%",
+    "uptime": "81.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "91.02%",
     "time": 901,
-    "timeDay": 1051,
-    "timeWeek": 1015,
-    "timeMonth": 1002,
+    "timeDay": 725,
+    "timeWeek": 982,
+    "timeMonth": 992,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2023-09-16": 79,
@@ -225,8 +223,7 @@
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 298,
-      "2022-10-05": 480,
-      "2022-09-21": 30
+      "2022-10-05": 480
     }
   }
 ]
