@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "84.29%",
+    "uptime": "84.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "94.72%",
+    "uptimeYear": "94.99%",
     "time": 191,
-    "timeDay": 165,
-    "timeWeek": 204,
-    "timeMonth": 207,
+    "timeDay": 203,
+    "timeWeek": 205,
+    "timeMonth": 206,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2023-10-08": 84,
@@ -70,8 +70,7 @@
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
-      "2022-10-19": 1440,
-      "2022-10-18": 1440
+      "2022-10-19": 1440
     }
   },
   {
@@ -80,13 +79,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "82.93%",
+    "uptime": "82.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.45%",
-    "uptimeYear": "96.42%",
+    "uptimeYear": "96.70%",
     "time": 189,
-    "timeDay": 178,
+    "timeDay": 200,
     "timeWeek": 202,
     "timeMonth": 194,
     "timeYear": 190,
@@ -132,8 +131,7 @@
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 367,
-      "2022-10-22": 38,
-      "2022-10-18": 1357
+      "2022-10-22": 38
     }
   },
   {
@@ -142,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "81.98%",
+    "uptime": "82.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.49%",
-    "uptimeYear": "91.61%",
-    "time": 912,
-    "timeDay": 930,
-    "timeWeek": 1041,
-    "timeMonth": 986,
-    "timeYear": 923,
+    "uptimeYear": "91.85%",
+    "time": 913,
+    "timeDay": 1254,
+    "timeWeek": 1094,
+    "timeMonth": 994,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2023-10-08": 83,
       "2023-09-26": 581,
@@ -212,8 +210,7 @@
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
-      "2022-10-19": 1440,
-      "2022-10-18": 370
+      "2022-10-19": 1440
     }
   }
 ]
