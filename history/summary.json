@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "84.57%",
-    "uptimeDay": "97.51%",
+    "uptime": "84.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "96.84%",
+    "uptimeYear": "96.89%",
     "time": 192,
-    "timeDay": 242,
-    "timeWeek": 204,
+    "timeDay": 218,
+    "timeWeek": 209,
     "timeMonth": 210,
     "timeYear": 192,
     "dailyMinutesDown": {
@@ -63,8 +63,7 @@
       "2022-11-08": 177,
       "2022-11-04": 9,
       "2022-11-02": 46,
-      "2022-11-01": 67,
-      "2022-10-29": 900
+      "2022-11-01": 67
     }
   },
   {
@@ -73,15 +72,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "83.23%",
+    "uptime": "83.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "97.03%",
     "time": 190,
-    "timeDay": 201,
-    "timeWeek": 196,
-    "timeMonth": 195,
+    "timeDay": 194,
+    "timeWeek": 197,
+    "timeMonth": 194,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2023-10-08": 83,
@@ -122,8 +121,7 @@
       "2022-11-02": 46,
       "2022-11-01": 66,
       "2022-10-31": 992,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   },
   {
@@ -132,15 +130,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "82.30%",
+    "uptime": "82.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "94.40%",
-    "time": 920,
-    "timeDay": 1088,
-    "timeWeek": 958,
-    "timeMonth": 1031,
+    "uptimeYear": "94.68%",
+    "time": 921,
+    "timeDay": 967,
+    "timeWeek": 969,
+    "timeMonth": 1036,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2023-10-08": 83,
@@ -191,8 +189,7 @@
       "2022-11-02": 46,
       "2022-11-01": 1313,
       "2022-10-31": 1440,
-      "2022-10-30": 1440,
-      "2022-10-29": 1440
+      "2022-10-30": 1440
     }
   }
 ]
