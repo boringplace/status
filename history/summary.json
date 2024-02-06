@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "86.69%",
+    "uptime": "86.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "97.92%",
+    "uptimeYear": "97.94%",
     "time": 190,
-    "timeDay": 157,
+    "timeDay": 194,
     "timeWeek": 160,
-    "timeMonth": 171,
+    "timeMonth": 170,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2024-01-16": 127,
@@ -42,8 +42,7 @@
       "2023-04-12": 56,
       "2023-03-27": 9,
       "2023-03-05": 473,
-      "2023-02-25": 9,
-      "2023-02-06": 103
+      "2023-02-25": 9
     }
   },
   {
@@ -52,16 +51,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "85.55%",
+    "uptime": "85.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "97.83%",
-    "time": 189,
-    "timeDay": 158,
-    "timeWeek": 189,
+    "uptimeYear": "97.85%",
+    "time": 188,
+    "timeDay": 192,
+    "timeWeek": 160,
     "timeMonth": 177,
-    "timeYear": 190,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2024-01-16": 126,
       "2023-12-27": 7,
@@ -86,8 +85,7 @@
       "2023-04-24": 44,
       "2023-04-12": 55,
       "2023-03-27": 8,
-      "2023-03-05": 472,
-      "2023-02-06": 103
+      "2023-03-05": 472
     }
   },
   {
@@ -96,15 +94,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "84.73%",
+    "uptime": "84.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 969,
-    "timeDay": 996,
-    "timeWeek": 1006,
-    "timeMonth": 1134,
+    "timeDay": 1014,
+    "timeWeek": 976,
+    "timeMonth": 1133,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2024-01-16": 127,
@@ -134,8 +132,7 @@
       "2023-04-24": 44,
       "2023-04-12": 54,
       "2023-03-27": 7,
-      "2023-03-05": 472,
-      "2023-02-06": 1
+      "2023-03-05": 472
     }
   }
 ]
