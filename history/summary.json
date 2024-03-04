@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "87.17%",
+    "uptime": "87.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.94%",
     "time": 190,
-    "timeDay": 140,
-    "timeWeek": 174,
-    "timeMonth": 180,
+    "timeDay": 154,
+    "timeWeek": 167,
+    "timeMonth": 181,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2024-02-26": 17,
@@ -41,8 +41,7 @@
       "2023-05-23": 9,
       "2023-04-24": 45,
       "2023-04-12": 56,
-      "2023-03-27": 9,
-      "2023-03-05": 473
+      "2023-03-27": 9
     }
   },
   {
@@ -51,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "86.07%",
+    "uptime": "86.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
     "time": 187,
-    "timeDay": 141,
-    "timeWeek": 179,
-    "timeMonth": 167,
+    "timeDay": 155,
+    "timeWeek": 172,
+    "timeMonth": 168,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2024-01-16": 126,
@@ -84,8 +83,7 @@
       "2023-05-23": 8,
       "2023-04-24": 44,
       "2023-04-12": 55,
-      "2023-03-27": 8,
-      "2023-03-05": 472
+      "2023-03-27": 8
     }
   },
   {
@@ -94,15 +92,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "85.28%",
+    "uptime": "85.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.81%",
-    "time": 974,
-    "timeDay": 893,
-    "timeWeek": 1038,
-    "timeMonth": 976,
+    "time": 973,
+    "timeDay": 915,
+    "timeWeek": 1012,
+    "timeMonth": 973,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2024-01-16": 127,
@@ -131,8 +129,7 @@
       "2023-05-17": 14,
       "2023-04-24": 44,
       "2023-04-12": 54,
-      "2023-03-27": 7,
-      "2023-03-05": 472
+      "2023-03-27": 7
     }
   }
 ]
