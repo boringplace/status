@@ -1,7 +1,7 @@
 url: boot.bpn.su
-status: down
-code: 503
-responseTime: 1301
-lastUpdated: 2024-04-23T19:00:01.996Z
+status: up
+code: 200
+responseTime: 1656
+lastUpdated: 2024-04-23T19:15:41.580Z
 startTime: 2022-02-16T20:31:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
