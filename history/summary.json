@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "89.17%",
+    "uptime": "89.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "97.98%",
     "time": 183,
-    "timeDay": 204,
+    "timeDay": 156,
     "timeWeek": 184,
     "timeMonth": 170,
     "timeYear": 180,
@@ -45,8 +45,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 364,
-      "2023-07-23": 144
+      "2023-07-28": 364
     }
   },
   {
@@ -61,9 +60,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "95.19%",
     "time": 182,
-    "timeDay": 209,
+    "timeDay": 157,
     "timeWeek": 186,
-    "timeMonth": 172,
+    "timeMonth": 171,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-07-20": 71,
@@ -100,8 +99,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 363,
-      "2023-07-23": 144
+      "2023-07-28": 363
     }
   },
   {
@@ -110,15 +108,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "86.61%",
+    "uptime": "86.62%",
     "uptimeDay": "99.39%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "95.48%",
     "time": 995,
-    "timeDay": 911,
-    "timeWeek": 952,
-    "timeMonth": 973,
+    "timeDay": 754,
+    "timeWeek": 928,
+    "timeMonth": 960,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2024-07-21": 9,
@@ -161,8 +159,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 362,
-      "2023-07-23": 144
+      "2023-07-28": 362
     }
   }
 ]
