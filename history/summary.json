@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "89.23%",
+    "uptime": "89.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.05%",
     "time": 183,
-    "timeDay": 137,
-    "timeWeek": 174,
+    "timeDay": 146,
+    "timeWeek": 167,
     "timeMonth": 169,
     "timeYear": 180,
     "dailyMinutesDown": {
@@ -45,8 +45,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
-      "2023-07-29": 1440,
-      "2023-07-28": 364
+      "2023-07-29": 1440
     }
   },
   {
@@ -55,14 +54,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "87.20%",
+    "uptime": "87.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "95.26%",
     "time": 182,
-    "timeDay": 139,
-    "timeWeek": 175,
+    "timeDay": 147,
+    "timeWeek": 169,
     "timeMonth": 170,
     "timeYear": 181,
     "dailyMinutesDown": {
@@ -100,8 +99,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
-      "2023-07-29": 1440,
-      "2023-07-28": 363
+      "2023-07-29": 1440
     }
   },
   {
@@ -110,15 +108,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "86.68%",
+    "uptime": "86.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "95.55%",
     "time": 996,
-    "timeDay": 823,
-    "timeWeek": 960,
-    "timeMonth": 948,
+    "timeDay": 742,
+    "timeWeek": 930,
+    "timeMonth": 943,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2024-07-22": 17,
@@ -161,8 +159,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
-      "2023-07-29": 1440,
-      "2023-07-28": 362
+      "2023-07-29": 1440
     }
   }
 ]
