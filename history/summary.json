@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "89.26%",
+    "uptime": "89.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.41%",
     "time": 183,
     "timeDay": 140,
-    "timeWeek": 152,
+    "timeWeek": 142,
     "timeMonth": 168,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -42,8 +42,7 @@
       "2023-08-06": 9,
       "2023-08-03": 1194,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   },
   {
@@ -52,15 +51,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "87.24%",
+    "uptime": "87.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "95.35%",
+    "uptimeYear": "95.62%",
     "time": 182,
     "timeDay": 140,
-    "timeWeek": 153,
-    "timeMonth": 170,
+    "timeWeek": 143,
+    "timeMonth": 169,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2024-07-22": 17,
@@ -94,8 +93,7 @@
       "2023-08-08": 566,
       "2023-08-03": 1186,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   },
   {
@@ -104,15 +102,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "86.72%",
+    "uptime": "86.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "95.63%",
+    "uptimeYear": "95.91%",
     "time": 995,
-    "timeDay": 749,
-    "timeWeek": 925,
-    "timeMonth": 935,
+    "timeDay": 847,
+    "timeWeek": 872,
+    "timeMonth": 932,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2024-07-22": 17,
@@ -152,8 +150,7 @@
       "2023-08-08": 596,
       "2023-08-03": 1194,
       "2023-08-02": 1440,
-      "2023-08-01": 1440,
-      "2023-07-31": 1440
+      "2023-08-01": 1440
     }
   }
 ]
