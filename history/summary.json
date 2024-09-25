@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.62%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.74%",
     "time": 179,
-    "timeDay": 140,
-    "timeWeek": 158,
-    "timeMonth": 156,
+    "timeDay": 205,
+    "timeWeek": 157,
+    "timeMonth": 158,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2024-09-19": 410,
@@ -47,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "up",
-    "uptime": "87.97%",
+    "uptime": "87.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.63%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "96.94%",
     "time": 180,
-    "timeDay": 141,
+    "timeDay": 205,
     "timeWeek": 158,
-    "timeMonth": 156,
+    "timeMonth": 158,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2024-09-19": 410,
@@ -85,8 +85,7 @@
       "2023-12-19": 44,
       "2023-12-12": 31,
       "2023-11-27": 18,
-      "2023-10-08": 83,
-      "2023-09-26": 597
+      "2023-10-08": 83
     }
   },
   {
@@ -95,16 +94,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "up",
-    "uptime": "87.47%",
+    "uptime": "87.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.63%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "97.25%",
     "time": 1024,
-    "timeDay": 897,
-    "timeWeek": 985,
-    "timeMonth": 1192,
-    "timeYear": 1048,
+    "timeDay": 1134,
+    "timeWeek": 994,
+    "timeMonth": 1202,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2024-09-19": 410,
       "2024-09-18": 131,
@@ -140,8 +139,7 @@
       "2023-12-07": 22,
       "2023-11-27": 18,
       "2023-11-07": 16,
-      "2023-10-08": 83,
-      "2023-09-26": 581
+      "2023-10-08": 83
     }
   }
 ]
