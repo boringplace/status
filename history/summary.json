@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "down",
-    "uptime": "84.67%",
+    "uptime": "84.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.71%",
+    "uptimeYear": "82.44%",
     "time": 176,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-12-17": 106,
+      "2024-12-18": 102,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -100,8 +101,7 @@
       "2024-02-26": 17,
       "2024-01-16": 127,
       "2023-12-27": 9,
-      "2023-12-23": 32,
-      "2023-12-19": 45
+      "2023-12-23": 32
     }
   },
   {
@@ -110,18 +110,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "down",
-    "uptime": "82.94%",
+    "uptime": "82.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.06%",
+    "uptimeYear": "79.78%",
     "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-12-17": 106,
+      "2024-12-18": 102,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -210,8 +211,7 @@
       "2024-04-07": 44,
       "2024-03-19": 9,
       "2024-01-16": 126,
-      "2023-12-27": 7,
-      "2023-12-19": 44
+      "2023-12-27": 7
     }
   },
   {
@@ -220,18 +220,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "down",
-    "uptime": "82.48%",
+    "uptime": "82.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.36%",
+    "uptimeYear": "80.09%",
     "time": 1031,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1062,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2024-12-17": 106,
+      "2024-12-18": 102,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -325,8 +326,7 @@
       "2024-03-19": 8,
       "2024-01-16": 127,
       "2023-12-27": 7,
-      "2023-12-22": 78,
-      "2023-12-19": 44
+      "2023-12-22": 78
     }
   }
 ]
