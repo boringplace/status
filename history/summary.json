@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "down",
-    "uptime": "76.53%",
+    "uptime": "76.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.62%",
+    "uptimeYear": "52.35%",
     "time": 171,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-04-06": 110,
+      "2025-04-07": 108,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -203,8 +204,7 @@
       "2024-06-20": 50,
       "2024-06-17": 28,
       "2024-06-12": 48,
-      "2024-06-10": 55,
-      "2024-04-07": 65
+      "2024-06-10": 55
     }
   },
   {
@@ -213,18 +213,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "down",
-    "uptime": "74.96%",
+    "uptime": "74.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.95%",
+    "uptimeYear": "49.68%",
     "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-04-06": 110,
+      "2025-04-07": 108,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -419,8 +420,7 @@
       "2024-06-11": 1440,
       "2024-06-10": 460,
       "2024-05-31": 10,
-      "2024-04-23": 22,
-      "2024-04-07": 44
+      "2024-04-23": 22
     }
   },
   {
@@ -429,18 +429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "down",
-    "uptime": "74.55%",
+    "uptime": "74.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.28%",
-    "time": 1046,
+    "uptimeYear": "50.00%",
+    "time": 1043,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1017,
     "dailyMinutesDown": {
-      "2025-04-06": 110,
+      "2025-04-07": 108,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -639,8 +640,7 @@
       "2024-05-31": 10,
       "2024-05-22": 23,
       "2024-05-05": 33,
-      "2024-04-23": 38,
-      "2024-04-07": 43
+      "2024-04-23": 38
     }
   }
 ]
