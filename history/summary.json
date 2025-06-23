@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "down",
-    "uptime": "71.70%",
+    "uptime": "71.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.57%",
+    "uptimeYear": "31.30%",
     "time": 163,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-06-22": 125,
+      "2025-06-23": 123,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -275,8 +276,7 @@
       "2024-07-22": 18,
       "2024-07-20": 73,
       "2024-07-12": 44,
-      "2024-07-10": 24,
-      "2024-06-23": 19
+      "2024-07-10": 24
     }
   },
   {
@@ -285,18 +285,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "down",
-    "uptime": "70.24%",
+    "uptime": "70.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.60%",
+    "uptimeYear": "31.33%",
     "time": 164,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-06-22": 125,
+      "2025-06-23": 123,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -554,8 +555,7 @@
       "2024-07-22": 17,
       "2024-07-20": 71,
       "2024-07-12": 35,
-      "2024-07-10": 22,
-      "2024-06-23": 18
+      "2024-07-10": 22
     }
   },
   {
@@ -564,18 +564,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "down",
-    "uptime": "69.85%",
+    "uptime": "69.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.59%",
-    "time": 1015,
+    "uptimeYear": "31.32%",
+    "time": 1016,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2025-06-22": 125,
+      "2025-06-23": 123,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -836,8 +837,7 @@
       "2024-07-21": 9,
       "2024-07-20": 71,
       "2024-07-12": 35,
-      "2024-07-10": 22,
-      "2024-06-23": 18
+      "2024-07-10": 22
     }
   }
 ]
