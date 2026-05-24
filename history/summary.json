@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-main-dc-kerberos",
     "status": "down",
-    "uptime": "56.26%",
+    "uptime": "56.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 666,
+      "2026-05-24": 242,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -379,8 +380,7 @@
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
-      "2025-05-25": 1440,
-      "2025-05-24": 1440
+      "2025-05-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boringplace-net-secondary-dc-kerberos",
     "status": "down",
-    "uptime": "55.10%",
+    "uptime": "55.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-23": 666,
+      "2026-05-24": 242,
+      "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -763,8 +764,7 @@
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
-      "2025-05-25": 1440,
-      "2025-05-24": 1440
+      "2025-05-25": 1440
     }
   },
   {
@@ -773,18 +773,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "boot-bpn-su",
     "status": "down",
-    "uptime": "54.83%",
-    "uptimeDay": "46.70%",
+    "uptime": "54.81%",
+    "uptimeDay": "29.40%",
     "uptimeWeek": "6.67%",
     "uptimeMonth": "2.92%",
     "uptimeYear": "0.13%",
     "time": 1646,
-    "timeDay": 1646,
+    "timeDay": 0,
     "timeWeek": 1646,
     "timeMonth": 1646,
     "timeYear": 1646,
     "dailyMinutesDown": {
-      "2026-05-23": 0,
       "2026-05-22": 1433,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
@@ -1148,7 +1147,8 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440
+      "2026-05-24": 242,
+      "2026-05-23": 774
     }
   }
 ]
